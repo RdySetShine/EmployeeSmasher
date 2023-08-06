@@ -1,0 +1,21 @@
+{
+  "name": "readmemdchallenge",
+  "version": "1.0.0",
+  "description": "this makes a readme.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "RdySetShine"
+  },
+  "author": "Bruno Rosarini",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.5",
+    "mysql2": "^3.3.2"
+  }
+}
