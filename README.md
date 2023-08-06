@@ -62,6 +62,6 @@ test video:
 
 For any questions, please reach out via GitHub or email:
 
-- GitHub: [BrunoRosarini](https://github.com/RdySetShine)
+- GitHub: [BrunoRosarini] (https://github.com/RdySetShine/EmployeeSmasher)
 
 - Email: (rosarinibruno@gmail.com)
