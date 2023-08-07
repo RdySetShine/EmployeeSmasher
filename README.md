@@ -51,7 +51,9 @@ Bruno Rosarini
 ## Contributing
 
 Krishna The TA
+
 Luis Sanchez
+
 Austin Grech
 
 ## Tests
